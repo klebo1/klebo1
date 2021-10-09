@@ -1,4 +1,4 @@
-## Hello, World! 🍕
+## Hello, World! ☕
 
 - 🔭 I’m currently working on nothing
 - 🌱 I’m currently learning Python
